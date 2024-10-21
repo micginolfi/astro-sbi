@@ -1,6 +1,9 @@
 # astro-sbi
 material for astro projects using a simulation based inference framework 
 
+
+- sbi-simulator.ipynb: full pipeline (simulator + neural density estimator with flows)
+- sbi-data.ipynb: takes in input pre-generated data and performs neural density estimation with flows 
 --------------------------------
 
 
