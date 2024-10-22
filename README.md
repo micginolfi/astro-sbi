@@ -15,6 +15,9 @@ material for astro projects using a simulation based inference framework
 ### SBI -- A toolkit for simulation-based inference
 https://arxiv.org/abs/2007.09114
 
+### Neural Density Estimation and Likelihood-free Inference (PhD thesis by G. Papamakarios)
+https://arxiv.org/abs/1910.13233
+
 ### SimBIG: Field-level Simulation-Based Inference of Galaxy Clustering
 https://arxiv.org/pdf/2310.15256
 
