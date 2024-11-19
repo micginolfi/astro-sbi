@@ -29,3 +29,6 @@ https://arxiv.org/pdf/2406.18661
 
 ### Simulation-Based Inference with Neural Posterior Estimation applied to X-ray spectral fitting
 https://arxiv.org/pdf/2401.06061v1
+
+### CONSTRAINING COSMOLOGY WITH SIMULATION-BASED INFERENCE AND OPTICAL GALAXY CLUSTER ABUNDANCE
+https://arxiv.org/pdf/2409.20507
