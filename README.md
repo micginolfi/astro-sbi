@@ -50,3 +50,6 @@ https://www.kicc.cam.ac.uk/events/kavli-science-themed-meetings/astrostatistics-
 
 ### SBI talk
 http://events.kias.re.kr/ckfinder/userfiles/202411/files/01-Leander_Thiele_28Oct_Session3.pdf
+
+### conditional flows
+https://siboehm.com/articles/19/normalizing-flow-network
