@@ -21,6 +21,9 @@ https://arxiv.org/abs/1910.13233
 ### Blog super didattico (per studenti)
 https://astroautomata.com/blog/simulation-based-inference/
 
+### DIGS: Deep Inference of Galaxy Spectra with Neural Posterior Estimation
+https://arxiv.org/pdf/2211.09126
+
 ### SimBIG: Field-level Simulation-Based Inference of Galaxy Clustering
 https://arxiv.org/pdf/2310.15256
 
